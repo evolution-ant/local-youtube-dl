@@ -1,0 +1,62 @@
+*.pyc
+*.pyo
+*.class
+*~
+*.DS_Store
+wine-py2exe/
+py2exe.log
+*.kate-swp
+build/
+dist/
+MANIFEST
+README.txt
+yt-dlp.1
+yt-dlp.bash-completion
+yt-dlp.fish
+yt_dlp/extractor/lazy_extractors.py
+yt-dlp
+yt-dlp.exe
+yt-dlp.tar.gz
+.coverage
+cover/
+updates_key.pem
+*.egg-info
+*.srt
+*.ttml
+*.sbv
+*.vtt
+*.flv
+*.mp4
+*.m4a
+*.m4v
+*.mp3
+*.3gp
+*.wav
+*.ape
+*.mkv
+*.swf
+*.part
+*.ytdl
+*.swp
+test/local_parameters.json
+.tox
+yt-dlp.zsh
+
+# IntelliJ related files
+.idea
+*.iml
+
+tmp/
+venv/
+
+# VS Code related files
+.vscode
+yt_dlp/extractor/bilibili - 副本.py
+
+# pyc file
+*.zip
+
+# local demo
+demo.py
+test.py
+demo.json
